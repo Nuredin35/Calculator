@@ -400,7 +400,7 @@ public class MainApp extends JFrame implements ActionListener {
                     "ID Number: UGR/35196/16\n" +
                     "Department: Computer Science and Engineering\n" +
                     "University: Adama Science and Technology University\n\n" +
-                    "Nuredin Wario is an undergraduate student in the Department of Computer Science and Engineering at "
+                    "Nuredin is an undergraduate student in the Department of Computer Science and Engineering at "
                     + "Adama Science and Technology University. He has a strong interest in software development and "
                     + "problem-solving, with a focus on building efficient, reliable, and user-friendly applications. "
                     + "He is motivated to continuously improve his technical skills and apply engineering principles "
